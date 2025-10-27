@@ -1,1 +1,1 @@
-# sms-detection-classifier
+# sms detection app
